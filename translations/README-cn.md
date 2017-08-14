@@ -189,7 +189,17 @@
 ## 面试过程 & 通用的面试准备
 
 - [ ] 视频：
-    - [ ] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+    - [x] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+    1-2 Phone Interview => up to 5 on-site => Local Hiring Comittee (LHC) => Regional & Company HC => Offer.
+    Expect: 
+    Short Intro
+    Tech Assessment
+    Close Questions
+    Coding:
+    Good code(note etc.) => Optimize, API and Test
+    Algorithms and data structure
+    Analytical Skill
+    Sound Design
     - [ ] [Google 招聘者所分享的技术面试小窍门（视频）](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
     - [ ] [如何在 Google 工作：技术型简历的准备（视频）](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
