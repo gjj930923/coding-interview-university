@@ -28,8 +28,8 @@
 - [不要妄自菲薄](#不要妄自菲薄)
 - [关于 Google](#关于-google)
 - [相关视频资源](#相关视频资源)
-- [面试过程 & 通用的面试准备](#面试过程--通用的面试准备)(Now is here.)
-- [为你的面试选择一种语言](#为你的面试选择一种语言)
+- [面试过程 & 通用的面试准备](#面试过程--通用的面试准备)
+- [为你的面试选择一种语言](#为你的面试选择一种语言)(Now is here.)
 - [在你开始之前](#在你开始之前)
 - [你所看不到的](#你所看不到的)
 - [日常计划](#日常计划)
@@ -204,8 +204,8 @@ Sound Design
     - [x] [如何在 Google 工作：技术型简历的准备（视频）](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 - [ ] 文章：
-    - [ ] [三步成为 Googler](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
-    - [ ] [得到在 Google 的工作机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+    - [x] [三步成为 Googler](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
+    - [x] [得到在 Google 的工作机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - 所有他所提及的事情都列在了下面
     - [ ] _（早已过期）_ [如何得到 Google 的一份工作，面试题，应聘过程](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [手机设备屏幕的问题](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
