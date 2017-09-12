@@ -29,11 +29,11 @@
 - [关于 Google](#关于-google)
 - [相关视频资源](#相关视频资源)
 - [面试过程 & 通用的面试准备](#面试过程--通用的面试准备)
-- [为你的面试选择一种语言](#为你的面试选择一种语言)(Now is here.)
+- [为你的面试选择一种语言](#为你的面试选择一种语言)
 - [在你开始之前](#在你开始之前)
 - [你所看不到的](#你所看不到的)
 - [日常计划](#日常计划)
-- [必备知识](#必备知识)
+- [必备知识](#必备知识)(Now is here.)
 - [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
 - [数据结构](#数据结构)
     - [数组（Arrays）](#数组arrays)
@@ -322,14 +322,14 @@ Sound Design
 
 ## 必备知识
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **计算机是如何处理一段程序：**
+    - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **编译器**
-    - [ ] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
-    - [ ] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
+    - [x] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [x] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [x] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - [ ] **浮点数是如何存储的：**
