@@ -33,10 +33,10 @@
 - [在你开始之前](#在你开始之前)
 - [你所看不到的](#你所看不到的)
 - [日常计划](#日常计划)
-- [必备知识](#必备知识)(Now is here.)
+- [必备知识](#必备知识)
 - [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
 - [数据结构](#数据结构)
-    - [数组（Arrays）](#数组arrays)
+    - [数组（Arrays）](#数组arrays)(Now is here.)
     - [链表（Linked Lists）](#链表linked-lists)
     - [堆栈（Stack）](#堆栈stack)
     - [队列（Queue）](#队列queue)
@@ -332,15 +332,15 @@ Sound Design
     - [x] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
-- [ ] **浮点数是如何存储的：**
+- [x] **浮点数是如何存储的：**
     - [x] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [x] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
 - [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)(Difference between big O, omega and theta)
-- [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
@@ -349,7 +349,7 @@ Sound Design
 - [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98)
 - [ ] [UC Berkeley Big Omega（视频）](https://youtu.be/ca3e7UVmeUc)
-- [ ] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)
 - [ ] 高级编程（包括递归关系和主定理）：
     - [计算性复杂度：第一部](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
