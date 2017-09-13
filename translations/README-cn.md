@@ -333,12 +333,12 @@ Sound Design
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - [ ] **浮点数是如何存储的：**
-    - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
+    - [x] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
+    - [x] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
-- [ ] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)(Difference between big O, omega and theta)
 - [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena 算法：
