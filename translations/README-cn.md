@@ -36,7 +36,7 @@
 - [必备知识](#必备知识)
 - [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
 - [数据结构](#数据结构)
-    - [数组（Arrays）](#数组arrays)
+    - [数组（Arrays）](#数组arrays)(Now is here.)
     - [链表（Linked Lists）](#链表linked-lists)
     - [堆栈（Stack）](#堆栈stack)
     - [队列（Queue）](#队列queue)
@@ -165,7 +165,7 @@
 
 ## 关于 Google
 
-- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [x] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
@@ -189,13 +189,23 @@
 ## 面试过程 & 通用的面试准备
 
 - [ ] 视频：
-    - [ ] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-    - [ ] [Google 招聘者所分享的技术面试小窍门（视频）](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-    - [ ] [如何在 Google 工作：技术型简历的准备（视频）](https://www.youtube.com/watch?v=8npJLXkcmu8)
+    - [x] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+1-2 Phone Interview => up to 5 on-site => Local Hiring Comittee (LHC) => Regional & Company HC => Offer.
+Expect: 
+Short Intro
+Tech Assessment
+Close Questions
+Coding:
+Good code(note etc.) => Optimize, API and Test
+Algorithms and data structure
+Analytical Skill
+Sound Design
+    - [x] [Google 招聘者所分享的技术面试小窍门（视频）](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+    - [x] [如何在 Google 工作：技术型简历的准备（视频）](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 - [ ] 文章：
-    - [ ] [三步成为 Googler](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
-    - [ ] [得到在 Google 的工作机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+    - [x] [三步成为 Googler](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
+    - [x] [得到在 Google 的工作机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - 所有他所提及的事情都列在了下面
     - [ ] _（早已过期）_ [如何得到 Google 的一份工作，面试题，应聘过程](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [手机设备屏幕的问题](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
@@ -312,25 +322,25 @@
 
 ## 必备知识
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **计算机是如何处理一段程序：**
+    - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **编译器**
-    - [ ] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
-    - [ ] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
+    - [x] [编译器是如何在 ~1 分钟内工作（视频）](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [x] [Hardvard CS50 —— 编译器（视频）](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [x] [C++（视频）](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [掌握编译器的优化（C++）（视频）](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
-- [ ] **浮点数是如何存储的：**
-    - [ ] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
+- [x] **浮点数是如何存储的：**
+    - [x] 简单的 8-bit：[浮点数的表达形式　—— 1（视频 —— 在计算上有一个错误 —— 详情请查看视频的介绍）](https://www.youtube.com/watch?v=ji3SfClm8TU)
+    - [x] 32 bit：[IEEE754 32-bit 浮点二进制（视频）](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
-- [ ] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)(Difference between big O, omega and theta)
+- [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
@@ -339,7 +349,7 @@
 - [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98)
 - [ ] [UC Berkeley Big Omega（视频）](https://youtu.be/ca3e7UVmeUc)
-- [ ] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)
 - [ ] 高级编程（包括递归关系和主定理）：
     - [计算性复杂度：第一部](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
@@ -1249,6 +1259,18 @@
 - 你在某份工作或某个项目中遇到过的最蛋疼的 Bug 是什么样的？
 - 你在某份工作或某个项目中学到了什么？
 - 你在某份工作或某个项目中哪些地方还可以做的更好？
+- Why do you want this job?
+- What's a tough problem you've solved?
+- Biggest challenges faced?
+- Best/worst designs seen?
+- Ideas for improving an existing product.
+- How do you work best, as an individual and as part of a team?
+- Which of your skills or experiences would be assets in the role and why?
+- What did you most enjoy at [job x / project y]?
+- What was the biggest challenge you faced at [job x / project y]?
+- What was the hardest bug you faced at [job x / project y]?
+- What did you learn at [job x / project y]?
+- What would you have done better at [job x / project y]?
 
 ## 问面试官的问题
 
@@ -1263,6 +1285,15 @@
 - 目前正在做什么工作?
 - 喜欢这些事情吗?
 - 工作期限是怎么样的?
+- How large is your team?
+- What does your dev cycle look like? Do you do waterfall/sprints/agile?
+- Are rushes to deadlines common? Or is there flexibility?
+- How are decisions made in your team?
+- How many meetings do you have per week?
+- Do you feel your work environment helps you concentrate?
+- What are you working on?
+- What do you like about it?
+- What is the work life like?
 
 ## 当你获得了梦想的职位
 
